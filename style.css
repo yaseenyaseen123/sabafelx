@@ -732,3 +732,20 @@ body {
 }
 
 
+
+
+.server-card.premium {
+    border: 2px solid #ff6b6b;
+    box-shadow: 0 0 30px rgba(255, 107, 107, 0.3);
+}
+
+.server-card.premium .featured-badge {
+    background: linear-gradient(45deg, #ff6b6b, #ffa07a);
+    box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+}
+
+.server-card.premium .server-name {
+    color: #ffa07a;
+}
+
+
